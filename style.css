@@ -8,7 +8,7 @@
 body {
     line-height: 1.6;
     background: #ffffff;
-   overflow-x: hidden;
+   
 }
 
 
@@ -68,6 +68,14 @@ body {
     margin-top: 20px;
 }
 
+.section {
+    padding: 50px 30px;
+}
+
+.intro {
+    background: #f2f2f2;
+}
+
 .card {
     background: #e6ecff;
     padding: 20px;
@@ -84,6 +92,32 @@ body {
 .gallery img {
     width: 100%;
     border-radius: 6px;
+}
+
+.notice {
+    
+    top: 80px;
+    background: #ffeb3b;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+
+
+
+
+.display-box {
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+
+.none {
+    display: none;
 }
 
 
