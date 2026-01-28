@@ -63,3 +63,12 @@ body {
     display: block;
 }
 
+.footer {
+    background: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
